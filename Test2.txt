@@ -1,2 +1,0 @@
-Test2
-Added new string2

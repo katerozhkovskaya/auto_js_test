@@ -1,3 +1,0 @@
-Test1
-Added new string1
-Added string to resolve conflicts from local and remote repository
